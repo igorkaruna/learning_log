@@ -19,6 +19,8 @@ source ll_env/bin/activate
 
 ```
 pip install django
+```
+```
 pip install django-bootstrap4
 ```
 ```
