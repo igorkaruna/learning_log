@@ -22,14 +22,9 @@
 
 <h2>Start project on your machine</h2>
 
-1. Install Python
-
-2. Install Django
- ```pip install django```
-
-3. Download Zip-File or clone the project
-```git clone ...```
-
-4. Run project
-```python/python3 manage.py runserver```
-
+1. Open terminal
+2. cd project
+3. Start virtual enviroment
+4. Install django, bootstrap4
+'''123'''
+6. Start project
