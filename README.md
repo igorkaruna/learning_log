@@ -32,6 +32,10 @@ cd learning_log
 ```
 python -m venv ll_env
 ```
+3. Activate virtual enviroment
+```
+source ll_env/bin/activate
+```
 5. Install django, bootstrap4
 ```
 pip install django
