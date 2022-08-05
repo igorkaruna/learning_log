@@ -6,7 +6,7 @@
 <h2>Start project on your machine</h2>
 
 1. Open terminal
-2. cd project
+2. Cd the project
 ```
 cd desktop
 cd learning_log
@@ -15,7 +15,7 @@ cd learning_log
 ```
 python -m venv ll_env
 ```
-3. Activate virtual enviroment
+4. Activate virtual enviroment
 ```
 source ll_env/bin/activate
 ```
