@@ -26,5 +26,10 @@
 2. cd project
 3. Start virtual enviroment
 4. Install django, bootstrap4
-'''123'''
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
+
 6. Start project
