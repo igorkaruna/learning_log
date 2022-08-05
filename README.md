@@ -24,12 +24,20 @@
 
 1. Open terminal
 2. cd project
+```
+cd desktop
+cd learning_log
+```
 3. Start virtual enviroment
-4. Install django, bootstrap4
 ```
-function test() {
-  console.log("notice the blank line before this function?");
-}
+python -m venv ll_env
 ```
-
+5. Install django, bootstrap4
+```
+pip install django
+pip install django-bootstrap4
+```
 6. Start project
+```
+python manage.py runserver
+```
